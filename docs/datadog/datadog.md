@@ -5,5 +5,5 @@ has_children: true
 permalink: docs/datadog/
 ---
 
-# Snippets
+# Datadog
 {: .no_toc }

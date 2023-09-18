@@ -5,5 +5,5 @@ has_children: true
 permalink: docs/ansible/
 ---
 
-# Snippets
+# Ansible
 {: .no_toc }

@@ -5,5 +5,5 @@ has_children: true
 permalink: docs/puppet/
 ---
 
-# Snippets
+# Puppet
 {: .no_toc }
